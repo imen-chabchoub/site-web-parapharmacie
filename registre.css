@@ -1,0 +1,36 @@
+#btnLogin {
+    background-color: #6885a3; /* Couleur de fond */
+    color: #fff; /* Couleur du texte */
+    padding: 10px 20px; /* Espacement interne */
+    border: none; /* Pas de bordure */
+    border-radius: 5px; /* Coins arrondis */
+    cursor: pointer; /* Curseur de la souris */
+    margin-right: 10px;
+    text-decoration: none;
+}
+#btnSignUp{
+    background-color: #6885a3; /* Couleur de fond */
+    color: #fff; /* Couleur du texte */
+    padding: 10px 20px; /* Espacement interne */
+    border: none; /* Pas de bordure */
+    border-radius: 5px; /* Coins arrondis */
+    cursor: pointer; /* Curseur de la souris */
+    margin-right: 10px;
+    text-decoration: none;
+
+}
+.form-group{
+    margin-bottom: 10px;
+}
+h1{
+    text-align: center;
+    color:rgba(73, 34, 83, 0.827)
+}
+.col-12{
+    border: solid;
+    border-color: rgb(169, 206, 194);
+    border-radius: 10px 100px / 120px ;
+    width:50%;
+    margin:auto;
+    background-color: #e8f4ff;
+}
